@@ -1,8 +1,8 @@
 # First try
 
 OF basic structure.
-1. `setup()` runs only once.
-2. `update()` & `draw()` runs until the program is finished externally, e.g., by you pressing the ESC in the keyboard.
+- `setup()` runs only once.
+- `update()` & `draw()` runs until the program is finished externally, e.g., by you pressing the ESC in the keyboard.
 
 This concept need to be understood. Mobile (iOS, Android) applicatins have all the same basic structure.
 
